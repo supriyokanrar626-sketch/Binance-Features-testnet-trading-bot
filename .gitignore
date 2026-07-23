@@ -1,0 +1,5 @@
+.env
+
+_pycache_/
+
+logs/ -> trading.log

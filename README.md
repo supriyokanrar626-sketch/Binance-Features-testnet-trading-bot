@@ -14,8 +14,7 @@ A simple command-line Python bot to place MARKET and LIMIT orders on Binance Fut
 
 1.  Clone the repository
     `bash
-    git clone https://github.com/your-username/binance-futures-testnet-trading-bot.git
-    cd binance-futures-testnet-trading-bot
+    git clone : https://github.com/supriyokanrar626-sketch/Binance-Features-testnet-trading-bot)
 
 ## Setup
 1. pip install -r requirements.txt
